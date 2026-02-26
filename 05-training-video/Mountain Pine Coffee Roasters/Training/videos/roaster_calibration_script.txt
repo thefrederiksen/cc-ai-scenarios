@@ -1,0 +1,99 @@
+ROASTER CALIBRATION TRAINING VIDEO - SCRIPT
+============================================
+Speaker: Marcus Rivera
+Duration: ~15 minutes
+Note: This is the script for the training video.
+      When you have the actual video, use cc-transcribe to extract the audio.
+      For this scenario, you can use this script to practice the workflow.
+
+---
+
+[0:00 - INTRO]
+
+Hey everyone, Marcus here. So today I'm going to walk you through how to calibrate our Diedrich IR-12 roaster. This is something you'll need to do at the start of every roast day, and then there's a more thorough weekly calibration we'll get to at the end.
+
+Okay so first thing - and this is important - always check that the gas line valve is open before you do anything else. I've seen new guys forget this step and then wonder why the burners won't light. Just give it a quick visual check. The handle should be parallel to the pipe, not perpendicular.
+
+[1:30 - SAFETY]
+
+Now before we get into the actual calibration, let me just say - this thing gets hot. Like, seriously hot. The drum can hit 450, 500 degrees Fahrenheit during a roast. So always, always have your heat-resistant gloves nearby. Not in a drawer somewhere - right here on the workbench where you can grab them.
+
+And yeah, I learned this the hard way back in 2019, burned my forearm pretty good when I reached across the drum opening. Took a month to heal. So just... be aware of where your body is at all times.
+
+Also, if you smell gas but the burner isn't lit, shut everything down immediately and open the loading bay door. Don't mess around with gas leaks. We've never had one, but you should know the protocol.
+
+[3:45 - THERMOCOUPLE CHECK]
+
+Alright, the first actual step is checking the thermocouple. This is the sensor that reads the bean temperature - it's the probe that sticks into the drum.
+
+You want to look at the readout on the control panel. Should show ambient temp when cold - you know, somewhere around 65-75 degrees depending on the room. If it's showing something weird like zero or negative numbers, the thermocouple might be failing. That happened to us last year. It'll drift further and further from reality until one day you're burning batches without knowing why.
+
+If the reading looks normal, you're good. But once a week, I like to verify it with a separate thermometer. Just stick an instant-read right next to the probe and compare. They should be within 2-3 degrees of each other. More than that, call Rick at Diedrich - his number's on the board - and he'll talk you through recalibrating or send a replacement.
+
+[5:30 - DRUM TEMPERATURE BASELINE]
+
+Okay so now we're going to set our drum baseline temperature. This is where things get... honestly a little bit art and a little bit science.
+
+Turn on the gas, ignite the burner - you should see blue flame through the inspection window. Give it about 5 minutes to warm up. What we're looking for is what I call the charge temperature - that's the temp the drum needs to be at when you drop your beans in.
+
+For most of our blends, I'm charging at 385 to 395 degrees Fahrenheit. But here's the thing - Ethiopian beans need a gentler start. They're denser and more moisture-laden. So for Ethiopians, I charge at 375. And for Sumatran - those are softer beans - I go hotter, like 400, 405.
+
+Write this down somewhere until it's second nature.
+
+[7:15 - AIRFLOW ADJUSTMENT]
+
+A lot of people don't realize how much airflow affects the roast. Too much airflow and you pull the heat right out of the drum before it can do its job. Too little and you get uneven roasts with some beans scorching while others are underdeveloped.
+
+The dial on the right side controls the exhaust damper. I keep it at about 40% during charging and early roast, then open it up to 60-70% after first crack. You'll feel it when you get it right - the beans sort of... breathe evenly, if that makes sense.
+
+There's no exact number because it depends on humidity, batch size, how much coffee you've already roasted that day. The drum itself holds heat differently after a few batches. So you have to learn to read the roast.
+
+[9:00 - TEST ROAST]
+
+What I always tell new guys is: do a test roast first. Don't just fire up production and hope for the best.
+
+Grab a pound of our standard Colombian - we always have some specifically for testing - and run it through. Set your timer.
+
+What you're listening for is first crack. That's the sound of the beans popping as moisture escapes. Sounds like popcorn starting to pop. Should happen somewhere around 8 to 10 minutes depending on your charge temp.
+
+If first crack is coming really early - like before 7 minutes - your heat is too high. Beans will taste grassy, sour. If it's taking forever - past 12 minutes - you're stalling the roast. Beans will taste flat, baked.
+
+Second crack comes a few minutes later and sounds sharper, more like Rice Krispies. For our medium roasts, we're dropping right around first crack plus 30 seconds. For the Alpine Dark, we go just into second crack, maybe 15 seconds in.
+
+Pull a few beans with the trier and check the color. Should be consistent across the sample. If you're seeing some beans dark brown and others still tan, your airflow is probably off.
+
+[11:30 - DAILY VS WEEKLY]
+
+So everything I just covered - that's your daily routine. Gas check, thermocouple check, warm up the drum, do a test roast if you're unsure.
+
+Weekly calibration is more thorough. Sunday evening, before the Monday roast day, I do the following:
+
+Clean the chaff collector completely. Not just empty it - actually brush out all the chaff. That stuff is a fire hazard if it builds up.
+
+Inspect the drum for any buildup or residue. You can shine a flashlight in there. If you see heavy oil buildup, run the drum empty at high heat for about 20 minutes. It'll smoke a bit - that's normal, that's the oil burning off.
+
+Lubricate the drum bearings - there's a grease fitting on the right side. Three pumps with the grease gun. Not more. Over-greasing causes its own problems.
+
+And finally, verify the gas pressure. There's a gauge on the supply line. Should read between 7 and 11 inches water column. If it's dropping below 7, we might have a supply issue. Call the gas company.
+
+[13:30 - TROUBLESHOOTING]
+
+Let me give you a few common problems and what to do.
+
+Temperature keeps drifting during roast: Usually this is the thermocouple getting old, or sometimes the gas regulator needs adjustment. Try cleaning the thermocouple probe first - coffee oils build up on it. If cleaning doesn't fix it, call Rick.
+
+Beans roasting unevenly: Could be airflow, could be drum speed. Our drum should rotate at about 54 RPM. There's no easy way to check this without a tachometer, but if it sounds slower than usual, the belt might be slipping.
+
+Smoke building up in the room: Your chaff collector is probably full or your exhaust duct needs cleaning. We had a clogged duct once and it was not fun. Do the weekly cleanings and you shouldn't have this problem.
+
+Strange burning smell that's NOT coffee: Stop immediately. Check for chaff fires in the collector. Check for oil rags or gloves that might have fallen onto the drum. Basically anything that shouldn't be there.
+
+[15:00 - WRAP UP]
+
+Okay I think that covers it. The main things to remember are: check everything before you roast, know your charge temperatures for different origins, listen to the beans, and do your weekly maintenance.
+
+If something feels off, stop and figure it out. Ruined batches are expensive, and more importantly, this is a powerful piece of equipment. Respect it.
+
+Any questions, come find me. I'm usually here every roast day. And the Diedrich manual is in the office if you want the really technical specs.
+
+Alright, that's it. Good luck!

@@ -1,0 +1,16 @@
+# Sample URLs for cc-crawl4ai demo
+# These are example URLs for demonstrating web scraping
+
+# Coffee industry news
+https://dailycoffeenews.com
+
+# Small business resources
+https://www.sba.gov/business-guide
+
+# Local business listings (for competitive research demo)
+https://www.yelp.com/search?find_desc=coffee+roasters&find_loc=Denver%2C+CO
+
+# Note: For the actual demo, use URLs that:
+# 1. Are publicly accessible
+# 2. Allow scraping (check robots.txt)
+# 3. Have useful content to extract

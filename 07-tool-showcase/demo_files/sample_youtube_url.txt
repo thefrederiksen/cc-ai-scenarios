@@ -1,0 +1,10 @@
+# Sample YouTube URL for cc-youtube-info demo
+# Pick any relevant video - coffee roasting, small business tips, etc.
+
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+# Replace with an actual relevant video for the demo
+# Suggestions:
+# - Coffee roasting tutorial
+# - Small business marketing tips
+# - Supply chain basics
